@@ -1,0 +1,91 @@
+_wandb:
+    value:
+        cli_version: 0.19.8
+        m: []
+        python_version: 3.11.5
+        t:
+            "1":
+                - 1
+                - 55
+            "2":
+                - 1
+                - 55
+            "3":
+                - 13
+                - 16
+                - 23
+                - 55
+                - 61
+            "4": 3.11.5
+            "5": 0.19.8
+            "8":
+                - 3
+                - 5
+            "12": 0.19.8
+            "13": windows-amd64
+always_save_checkpoint:
+    value: false
+batch_size:
+    value: 2
+beta1:
+    value: 0.9
+beta2:
+    value: 0.99
+compile:
+    value: false
+decay_lr:
+    value: true
+device:
+    value: cpu
+dim:
+    value: 64
+dropout:
+    value: 0.05
+dtype:
+    value: float32
+eval_interval:
+    value: 250
+eval_iters:
+    value: 20
+eval_only:
+    value: false
+grad_clip:
+    value: 1
+gradient_accumulation_steps:
+    value: 1
+init_from:
+    value: scratch
+learning_rate:
+    value: 1.56e-05
+log_interval:
+    value: 20
+max_iters:
+    value: 2000
+max_seq_len:
+    value: 512
+multiple_of:
+    value: 4
+n_future:
+    value: 4
+n_heads:
+    value: 8
+n_kv_heads:
+    value: 4
+n_layers:
+    value: 5
+out_dir:
+    value: outmini
+vocab_size:
+    value: 512
+vocab_source:
+    value: custom
+wandb_log:
+    value: true
+wandb_project:
+    value: Llama2.c
+wandb_run_name:
+    value: multi_token_cpu
+warmup_iters:
+    value: 1000
+weight_decay:
+    value: 0.01

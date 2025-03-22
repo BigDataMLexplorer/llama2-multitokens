@@ -1,0 +1,15 @@
+{"time":"2025-03-22T19:33:36.5046939+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\uzivatel\\Desktop\\llama2.c\\wandb\\run-20250322_193336-ucaoxsoa\\logs\\debug-core.log"}
+{"time":"2025-03-22T19:33:37.8353893+01:00","level":"INFO","msg":"created new stream","id":"ucaoxsoa"}
+{"time":"2025-03-22T19:33:37.8359242+01:00","level":"INFO","msg":"stream: started","id":"ucaoxsoa"}
+{"time":"2025-03-22T19:33:37.8359242+01:00","level":"INFO","msg":"handler: started","stream_id":"ucaoxsoa"}
+{"time":"2025-03-22T19:33:37.8366575+01:00","level":"INFO","msg":"sender: started","stream_id":"ucaoxsoa"}
+{"time":"2025-03-22T19:33:37.8366575+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ucaoxsoa"}
+{"time":"2025-03-22T19:33:38.0990889+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-22T19:59:22.2980271+01:00","level":"INFO","msg":"stream: closing","id":"ucaoxsoa"}
+{"time":"2025-03-22T19:59:22.2980271+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-22T19:59:22.2985824+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-22T19:59:22.9970107+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-22T19:59:23.2201545+01:00","level":"INFO","msg":"handler: closed","stream_id":"ucaoxsoa"}
+{"time":"2025-03-22T19:59:23.2201545+01:00","level":"INFO","msg":"sender: closed","stream_id":"ucaoxsoa"}
+{"time":"2025-03-22T19:59:23.2201545+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ucaoxsoa"}
+{"time":"2025-03-22T19:59:23.2206864+01:00","level":"INFO","msg":"stream: closed","id":"ucaoxsoa"}

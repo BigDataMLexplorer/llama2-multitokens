@@ -1,0 +1,7 @@
+{"time":"2025-03-22T18:07:44.5376185+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"C:\\Users\\uzivatel\\Desktop\\llama2.c\\wandb\\run-20250322_180744-mz32i8p6\\logs\\debug-core.log"}
+{"time":"2025-03-22T18:07:45.974266+01:00","level":"INFO","msg":"created new stream","id":"mz32i8p6"}
+{"time":"2025-03-22T18:07:45.974266+01:00","level":"INFO","msg":"stream: started","id":"mz32i8p6"}
+{"time":"2025-03-22T18:07:45.974266+01:00","level":"INFO","msg":"sender: started","stream_id":"mz32i8p6"}
+{"time":"2025-03-22T18:07:45.974266+01:00","level":"INFO","msg":"handler: started","stream_id":"mz32i8p6"}
+{"time":"2025-03-22T18:07:45.974266+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"mz32i8p6"}
+{"time":"2025-03-22T18:07:46.2352115+01:00","level":"INFO","msg":"Starting system monitor"}

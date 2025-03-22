@@ -1,0 +1,54 @@
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 0: train loss 6.2520, val loss 6.2512
+0 | loss 6.2498 | lr 0.000000e+00 | 32477.71ms | mfu -100.00%
+20 | loss 6.2482 | lr 3.120000e-07 | 961.78ms | mfu 0.00%
+40 | loss 6.2468 | lr 6.240000e-07 | 746.91ms | mfu 0.00%
+60 | loss 6.2495 | lr 9.360000e-07 | 704.33ms | mfu 0.00%
+80 | loss 6.2489 | lr 1.248000e-06 | 790.99ms | mfu 0.00%
+100 | loss 6.2521 | lr 1.560000e-06 | 772.16ms | mfu 0.00%
+120 | loss 6.2490 | lr 1.872000e-06 | 757.70ms | mfu 0.00%
+140 | loss 6.2485 | lr 2.184000e-06 | 694.96ms | mfu 0.00%
+160 | loss 6.2454 | lr 2.496000e-06 | 810.77ms | mfu 0.00%
+180 | loss 6.2470 | lr 2.808000e-06 | 686.29ms | mfu 0.00%
+200 | loss 6.2430 | lr 3.120000e-06 | 672.66ms | mfu 0.00%
+220 | loss 6.2392 | lr 3.432000e-06 | 646.09ms | mfu 0.00%
+240 | loss 6.2361 | lr 3.744000e-06 | 697.61ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 250: train loss 6.2348, val loss 6.2342
+saving checkpoint to outmini
+wrote outmini\model.bin
+260 | loss 6.2282 | lr 4.056000e-06 | 649.43ms | mfu 0.00%
+280 | loss 6.2299 | lr 4.368000e-06 | 666.81ms | mfu 0.00%
+300 | loss 6.2165 | lr 4.680000e-06 | 750.72ms | mfu 0.00%
+320 | loss 6.2068 | lr 4.992000e-06 | 715.91ms | mfu 0.00%
+340 | loss 6.1904 | lr 5.304000e-06 | 674.28ms | mfu 0.00%
+360 | loss 6.1771 | lr 5.616000e-06 | 604.80ms | mfu 0.00%
+380 | loss 6.1604 | lr 5.928000e-06 | 680.64ms | mfu 0.00%
+400 | loss 6.1475 | lr 6.240000e-06 | 910.78ms | mfu 0.00%
+420 | loss 6.1379 | lr 6.552000e-06 | 646.68ms | mfu 0.00%
+440 | loss 6.1280 | lr 6.864000e-06 | 930.04ms | mfu 0.00%
+460 | loss 6.1118 | lr 7.176000e-06 | 678.90ms | mfu 0.00%
+480 | loss 6.0912 | lr 7.488000e-06 | 689.07ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 500: train loss 6.0802, val loss 6.0797
+saving checkpoint to outmini
+wrote outmini\model.bin
+500 | loss 6.0843 | lr 7.800000e-06 | 26454.22ms | mfu 0.00%
+520 | loss 6.0716 | lr 8.112000e-06 | 626.40ms | mfu 0.00%
+540 | loss 6.0531 | lr 8.424000e-06 | 622.65ms | mfu 0.00%
+560 | loss 6.0366 | lr 8.736000e-06 | 620.79ms | mfu 0.00%
+580 | loss 6.0302 | lr 9.048000e-06 | 626.43ms | mfu 0.00%
+600 | loss 6.0118 | lr 9.360000e-06 | 595.41ms | mfu 0.00%
+620 | loss 5.9968 | lr 9.672000e-06 | 647.57ms | mfu 0.00%
+640 | loss 5.9854 | lr 9.984000e-06 | 678.92ms | mfu 0.00%
+660 | loss 5.9771 | lr 1.029600e-05 | 603.87ms | mfu 0.00%
+680 | loss 5.9464 | lr 1.060800e-05 | 598.81ms | mfu 0.00%
+700 | loss 5.9371 | lr 1.092000e-05 | 690.22ms | mfu 0.00%
+720 | loss 5.9239 | lr 1.123200e-05 | 662.10ms | mfu 0.00%
+740 | loss 5.9124 | lr 1.154400e-05 | 775.16ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42

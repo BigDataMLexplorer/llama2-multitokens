@@ -1,0 +1,145 @@
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 0: train loss 6.2525, val loss 6.2512
+0 | loss 6.2498 | lr 0.000000e+00 | 11827.51ms | mfu -100.00%
+20 | loss 6.2482 | lr 3.120000e-07 | 640.16ms | mfu 0.00%
+40 | loss 6.2468 | lr 6.240000e-07 | 700.04ms | mfu 0.00%
+60 | loss 6.2495 | lr 9.360000e-07 | 635.34ms | mfu 0.00%
+80 | loss 6.2489 | lr 1.248000e-06 | 689.60ms | mfu 0.00%
+100 | loss 6.2521 | lr 1.560000e-06 | 585.13ms | mfu 0.00%
+120 | loss 6.2490 | lr 1.872000e-06 | 593.69ms | mfu 0.00%
+140 | loss 6.2485 | lr 2.184000e-06 | 789.93ms | mfu 0.00%
+160 | loss 6.2454 | lr 2.496000e-06 | 730.63ms | mfu 0.00%
+180 | loss 6.2470 | lr 2.808000e-06 | 630.20ms | mfu 0.00%
+200 | loss 6.2430 | lr 3.120000e-06 | 728.14ms | mfu 0.00%
+220 | loss 6.2392 | lr 3.432000e-06 | 674.63ms | mfu 0.00%
+240 | loss 6.2361 | lr 3.744000e-06 | 709.48ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 250: train loss 6.2351, val loss 6.2344
+saving checkpoint to outmini
+wrote outmini\model.bin
+260 | loss 6.2282 | lr 4.056000e-06 | 637.91ms | mfu 0.00%
+280 | loss 6.2299 | lr 4.368000e-06 | 792.85ms | mfu 0.00%
+300 | loss 6.2165 | lr 4.680000e-06 | 671.34ms | mfu 0.00%
+320 | loss 6.2068 | lr 4.992000e-06 | 738.35ms | mfu 0.00%
+340 | loss 6.1904 | lr 5.304000e-06 | 712.32ms | mfu 0.00%
+360 | loss 6.1771 | lr 5.616000e-06 | 621.52ms | mfu 0.00%
+380 | loss 6.1604 | lr 5.928000e-06 | 615.24ms | mfu 0.00%
+400 | loss 6.1475 | lr 6.240000e-06 | 665.46ms | mfu 0.00%
+420 | loss 6.1379 | lr 6.552000e-06 | 606.21ms | mfu 0.00%
+440 | loss 6.1280 | lr 6.864000e-06 | 712.13ms | mfu 0.00%
+460 | loss 6.1118 | lr 7.176000e-06 | 711.57ms | mfu 0.00%
+480 | loss 6.0912 | lr 7.488000e-06 | 690.61ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 500: train loss 6.0801, val loss 6.0800
+saving checkpoint to outmini
+wrote outmini\model.bin
+500 | loss 6.0843 | lr 7.800000e-06 | 11984.65ms | mfu 0.00%
+520 | loss 6.0716 | lr 8.112000e-06 | 602.65ms | mfu 0.00%
+540 | loss 6.0531 | lr 8.424000e-06 | 627.77ms | mfu 0.00%
+560 | loss 6.0366 | lr 8.736000e-06 | 527.59ms | mfu 0.00%
+580 | loss 6.0302 | lr 9.048000e-06 | 768.92ms | mfu 0.00%
+600 | loss 6.0118 | lr 9.360000e-06 | 711.20ms | mfu 0.00%
+620 | loss 5.9968 | lr 9.672000e-06 | 708.68ms | mfu 0.00%
+640 | loss 5.9854 | lr 9.984000e-06 | 606.49ms | mfu 0.00%
+660 | loss 5.9771 | lr 1.029600e-05 | 606.52ms | mfu 0.00%
+680 | loss 5.9464 | lr 1.060800e-05 | 665.84ms | mfu 0.00%
+700 | loss 5.9371 | lr 1.092000e-05 | 681.02ms | mfu 0.00%
+720 | loss 5.9239 | lr 1.123200e-05 | 637.85ms | mfu 0.00%
+740 | loss 5.9124 | lr 1.154400e-05 | 819.78ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 750: train loss 5.9021, val loss 5.9012
+saving checkpoint to outmini
+wrote outmini\model.bin
+760 | loss 5.8968 | lr 1.185600e-05 | 678.32ms | mfu 0.00%
+780 | loss 5.8778 | lr 1.216800e-05 | 683.33ms | mfu 0.00%
+800 | loss 5.8595 | lr 1.248000e-05 | 648.08ms | mfu 0.00%
+820 | loss 5.8439 | lr 1.279200e-05 | 689.38ms | mfu 0.00%
+840 | loss 5.8259 | lr 1.310400e-05 | 685.75ms | mfu 0.00%
+860 | loss 5.8192 | lr 1.341600e-05 | 621.63ms | mfu 0.00%
+880 | loss 5.7947 | lr 1.372800e-05 | 648.75ms | mfu 0.00%
+900 | loss 5.7851 | lr 1.404000e-05 | 600.97ms | mfu 0.00%
+920 | loss 5.7753 | lr 1.435200e-05 | 604.91ms | mfu 0.00%
+940 | loss 5.7554 | lr 1.466400e-05 | 713.34ms | mfu 0.00%
+960 | loss 5.7253 | lr 1.497600e-05 | 617.16ms | mfu 0.00%
+980 | loss 5.7309 | lr 1.528800e-05 | 627.13ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 1000: train loss 5.6956, val loss 5.6937
+saving checkpoint to outmini
+wrote outmini\model.bin
+1000 | loss 5.7036 | lr 1.560000e-05 | 13544.71ms | mfu 0.00%
+1020 | loss 5.6742 | lr 1.558461e-05 | 584.23ms | mfu 0.00%
+1040 | loss 5.6676 | lr 1.553849e-05 | 613.41ms | mfu 0.00%
+1060 | loss 5.6404 | lr 1.546184e-05 | 681.10ms | mfu 0.00%
+1080 | loss 5.6308 | lr 1.535495e-05 | 691.34ms | mfu 0.00%
+1100 | loss 5.6252 | lr 1.521824e-05 | 690.72ms | mfu 0.00%
+1120 | loss 5.6156 | lr 1.505226e-05 | 629.56ms | mfu 0.00%
+1140 | loss 5.5894 | lr 1.485765e-05 | 757.13ms | mfu 0.00%
+1160 | loss 5.5620 | lr 1.463519e-05 | 646.02ms | mfu 0.00%
+1180 | loss 5.5571 | lr 1.438576e-05 | 612.96ms | mfu 0.00%
+1200 | loss 5.5480 | lr 1.411033e-05 | 652.80ms | mfu 0.00%
+1220 | loss 5.5382 | lr 1.381000e-05 | 666.44ms | mfu 0.00%
+1240 | loss 5.5016 | lr 1.348596e-05 | 674.71ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 1250: train loss 5.5069, val loss 5.5037
+saving checkpoint to outmini
+wrote outmini\model.bin
+1260 | loss 5.5165 | lr 1.313947e-05 | 582.00ms | mfu 0.00%
+1280 | loss 5.4931 | lr 1.277191e-05 | 626.59ms | mfu 0.00%
+1300 | loss 5.4548 | lr 1.238472e-05 | 860.16ms | mfu 0.00%
+1320 | loss 5.4844 | lr 1.197945e-05 | 612.70ms | mfu 0.00%
+1340 | loss 5.4688 | lr 1.155768e-05 | 631.30ms | mfu 0.00%
+1360 | loss 5.4418 | lr 1.112108e-05 | 616.93ms | mfu 0.00%
+1380 | loss 5.4385 | lr 1.067137e-05 | 683.36ms | mfu 0.00%
+1400 | loss 5.4349 | lr 1.021033e-05 | 649.95ms | mfu 0.00%
+1420 | loss 5.4388 | lr 9.739781e-06 | 622.58ms | mfu 0.00%
+1440 | loss 5.4180 | lr 9.261574e-06 | 920.74ms | mfu 0.00%
+1460 | loss 5.4372 | lr 8.777599e-06 | 671.28ms | mfu 0.00%
+1480 | loss 5.4176 | lr 8.289766e-06 | 762.54ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 1500: train loss 5.3904, val loss 5.3864
+saving checkpoint to outmini
+wrote outmini\model.bin
+1500 | loss 5.3885 | lr 7.800000e-06 | 13863.06ms | mfu 0.00%
+1520 | loss 5.3770 | lr 7.310234e-06 | 661.20ms | mfu 0.00%
+1540 | loss 5.3640 | lr 6.822401e-06 | 776.88ms | mfu 0.00%
+1560 | loss 5.3581 | lr 6.338426e-06 | 678.00ms | mfu 0.00%
+1580 | loss 5.3544 | lr 5.860219e-06 | 671.77ms | mfu 0.00%
+1600 | loss 5.3307 | lr 5.389667e-06 | 699.59ms | mfu 0.00%
+1620 | loss 5.3469 | lr 4.928628e-06 | 651.55ms | mfu 0.00%
+1640 | loss 5.3537 | lr 4.478922e-06 | 679.53ms | mfu 0.00%
+1660 | loss 5.3452 | lr 4.042321e-06 | 605.72ms | mfu 0.00%
+1680 | loss 5.3542 | lr 3.620551e-06 | 599.60ms | mfu 0.00%
+1700 | loss 5.3364 | lr 3.215275e-06 | 596.10ms | mfu 0.00%
+1720 | loss 5.3510 | lr 2.828093e-06 | 721.80ms | mfu 0.00%
+1740 | loss 5.3371 | lr 2.460533e-06 | 675.93ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 1750: train loss 5.3417, val loss 5.3374
+saving checkpoint to outmini
+wrote outmini\model.bin
+1760 | loss 5.3419 | lr 2.114045e-06 | 797.35ms | mfu 0.00%
+1780 | loss 5.3551 | lr 1.789997e-06 | 685.55ms | mfu 0.00%
+1800 | loss 5.3425 | lr 1.489667e-06 | 579.70ms | mfu 0.00%
+1820 | loss 5.3366 | lr 1.214242e-06 | 614.60ms | mfu 0.00%
+1840 | loss 5.3146 | lr 9.648079e-07 | 763.38ms | mfu 0.00%
+1860 | loss 5.3266 | lr 7.423490e-07 | 688.52ms | mfu 0.00%
+1880 | loss 5.3104 | lr 5.477434e-07 | 750.57ms | mfu 0.00%
+1900 | loss 5.3580 | lr 3.817592e-07 | 839.11ms | mfu 0.00%
+1920 | loss 5.3358 | lr 2.450513e-07 | 673.28ms | mfu 0.00%
+1940 | loss 5.3487 | lr 1.381594e-07 | 635.19ms | mfu 0.00%
+1960 | loss 5.3243 | lr 6.150533e-08 | 728.07ms | mfu 0.00%
+1980 | loss 5.3007 | lr 1.539152e-08 | 697.50ms | mfu 0.00%
+Created a PretokDataset with rng seed 42
+Created a PretokDataset with rng seed 42
+step 2000: train loss 5.3341, val loss 5.3298
+saving checkpoint to outmini
+wrote outmini\model.bin
+2000 | loss 5.3241 | lr 0.000000e+00 | 12610.85ms | mfu 0.00%

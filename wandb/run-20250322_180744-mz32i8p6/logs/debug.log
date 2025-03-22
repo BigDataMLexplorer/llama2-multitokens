@@ -1,0 +1,22 @@
+2025-03-22 18:07:44,491 INFO    MainThread:18816 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-22 18:07:44,491 INFO    MainThread:18816 [wandb_setup.py:_flush():67] Configure stats pid to 18816
+2025-03-22 18:07:44,491 INFO    MainThread:18816 [wandb_setup.py:_flush():67] Loading settings from C:\Users\uzivatel\.config\wandb\settings
+2025-03-22 18:07:44,491 INFO    MainThread:18816 [wandb_setup.py:_flush():67] Loading settings from C:\Users\uzivatel\Desktop\llama2.c\wandb\settings
+2025-03-22 18:07:44,491 INFO    MainThread:18816 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-22 18:07:44,491 INFO    MainThread:18816 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\uzivatel\Desktop\llama2.c\wandb\run-20250322_180744-mz32i8p6\logs\debug.log
+2025-03-22 18:07:44,507 INFO    MainThread:18816 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\uzivatel\Desktop\llama2.c\wandb\run-20250322_180744-mz32i8p6\logs\debug-internal.log
+2025-03-22 18:07:44,507 INFO    MainThread:18816 [wandb_init.py:init():761] calling init triggers
+2025-03-22 18:07:44,507 INFO    MainThread:18816 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'n_future': 4, 'out_dir': 'outmini', 'eval_interval': 250, 'log_interval': 20, 'eval_iters': 50, 'eval_only': False, 'always_save_checkpoint': False, 'init_from': 'scratch', 'wandb_log': True, 'wandb_project': 'Llama2.c', 'wandb_run_name': 'multi_token_cpu', 'batch_size': 2, 'max_seq_len': 512, 'vocab_source': 'custom', 'vocab_size': 512, 'dim': 64, 'n_layers': 5, 'n_heads': 8, 'n_kv_heads': 4, 'multiple_of': 4, 'dropout': 0.05, 'gradient_accumulation_steps': 1, 'learning_rate': 1.56e-05, 'max_iters': 2000, 'weight_decay': 0.01, 'beta1': 0.9, 'beta2': 0.99, 'grad_clip': 1.0, 'decay_lr': True, 'warmup_iters': 1000, 'device': 'cpu', 'dtype': 'float32', 'compile': False, '_wandb': {}}
+2025-03-22 18:07:44,507 INFO    MainThread:18816 [wandb_init.py:init():784] starting backend
+2025-03-22 18:07:44,507 INFO    MainThread:18816 [wandb_init.py:init():788] sending inform_init request
+2025-03-22 18:07:44,532 INFO    MainThread:18816 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-22 18:07:44,532 INFO    MainThread:18816 [wandb_init.py:init():798] backend started and connected
+2025-03-22 18:07:44,533 INFO    MainThread:18816 [wandb_init.py:init():891] updated telemetry
+2025-03-22 18:07:44,607 INFO    MainThread:18816 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-22 18:07:46,229 INFO    MainThread:18816 [wandb_init.py:init():990] starting run threads in backend
+2025-03-22 18:07:47,523 INFO    MainThread:18816 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-22 18:07:47,523 INFO    MainThread:18816 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-22 18:07:47,523 INFO    MainThread:18816 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-22 18:07:47,524 INFO    MainThread:18816 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-22 18:07:47,531 INFO    MainThread:18816 [wandb_init.py:init():1032] run started, returning control to user process
