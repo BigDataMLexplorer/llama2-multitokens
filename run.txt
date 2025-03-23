@@ -1,3 +1,5 @@
+python tinystories.py download
+python tinystories.py pretokenize --vocab_size=512
 python train.py --n_future=4 --out_dir="outmini" --batch_size=2 --max_seq_len=512 --gradient_accumulation_steps=1 --vocab_source="custom" --vocab_size=512 --dim=64 --n_layers=5 --n_heads=8 --n_kv_heads=4 --multiple_of=4 --learning_rate=1.56e-5 --dropout=0.05 --weight_decay=0.01 --max_iters=2000 --beta2=0.99 --warmup_iters=1000 --eval_interval=250 --eval_iters=50 --compile=False --device="cpu" --dtype="float32" --log_interval=20 --wandb_log=True --wandb_project="Llama2.c" --wandb_run_name="multi_token_cpu"
 
 
